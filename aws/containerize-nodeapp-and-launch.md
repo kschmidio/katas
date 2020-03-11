@@ -1,6 +1,6 @@
 # Prerequisites
-* [access-ec2-website-through-ssh-tunnel](access-ec2-website-through-ssh-tunnel)
-
+* [access-ec2-website-through-ssh-tunnel](access-ec2-website-through-ssh-tunnel.md)
+* [create-ami-with-docker-node](create-ami-with-docker-node.md)
 # Steps
 
 
