@@ -1,4 +1,5 @@
 # Prerequisites
+* Have access to an AWS account
 * [access-ec2-website-through-ssh-tunnel](access-ec2-website-through-ssh-tunnel.md)
 * [create-ami-with-docker-node](create-ami-with-docker-node.md)
 * [hello-world-node](../languages/hello-world-node.mdhello-world-node.md)

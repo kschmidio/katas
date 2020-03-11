@@ -1,3 +1,6 @@
+# Prerequisites
+* Have access to an AWS account
+
 # Steps
 
 1. Create EC2 Instance. Choose Amazon Linux 2 AMI.
