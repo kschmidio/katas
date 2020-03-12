@@ -1,7 +1,9 @@
-# Prerequisites
+# Create AMI with docker and node
+
+## Prerequisites
 * Have access to an AWS account
 
-# Steps
+## Steps
 
 1. Create EC2 Instance. Choose Amazon Linux 2 AMI.
 2. When up and running ssh into the instance

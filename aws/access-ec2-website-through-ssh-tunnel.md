@@ -1,9 +1,11 @@
-# Prerequisites
+# Access website hosted on ec2 instance through ssh tunnel
+
+## Prerequisites
 * Have an AWS account
 * [hello-world-node](../languages/hello-world-node.mdhello-world-node.md)
 * Have an ami with node installed
 
-# Steps
+## Steps
 1. Launch the ami
 2. connect to instance with ssh tool
 3. create [node app](../languages/hello-world-node.md) on instance

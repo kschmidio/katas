@@ -1,9 +1,11 @@
-# Prerequisites
+# Containerize nodeapp
+
+## Prerequisites
 * Have access to an AWS account
 * [access-ec2-website-through-ssh-tunnel](access-ec2-website-through-ssh-tunnel.md)
 * [create-ami-with-docker-node](create-ami-with-docker-node.md)
 * [hello-world-node](../languages/hello-world-node.mdhello-world-node.md)
-# Steps
+## Steps
 1. launch ami with docker and node installed
 2. create [node application](../languages/hello-world-node.md)
 3. create [dockerfile](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/)

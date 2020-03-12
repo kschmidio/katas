@@ -1,7 +1,9 @@
-# Prerequisites
+# Hello World node
+
+## Prerequisites
 * Have node installed
 
-# Steps
+## Steps
 
 1. create node app
    ```
