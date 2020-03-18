@@ -1,7 +1,7 @@
 # Access website hosted on ec2 instance through ssh tunnel
 
 ## Prerequisites
-* Have an AWS account
+* Have access an AWS account
 * [hello-world-node](../languages/hello-world-node.mdhello-world-node.md)
 * Have an ami with node installed
 
