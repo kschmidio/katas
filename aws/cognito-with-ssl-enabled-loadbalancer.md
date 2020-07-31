@@ -7,8 +7,8 @@
 
 ## Steps
 1. launch ami with docker and node installed
-2. create [node application](../languages/hello-world-node.md)
-3. create a application loadbalancer that routes traffic to the node app
+2. create a [node application](../languages/hello-world-node.md)
+3. create an application loadbalancer that routes traffic to the node app
 4. check security groups and limit access as far as possible
 5. check if you can reach the app via your local browser
 6. create a user pool with cognito
