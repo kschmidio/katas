@@ -1,0 +1,1 @@
+https://aws.amazon.com/premiumsupport/knowledge-center/aws-backup-encoded-authorization-failure/
