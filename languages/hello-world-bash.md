@@ -14,6 +14,9 @@
    echo "Hello Kata"
    echo "number of arguments " $#
    echo "all arguments " $*
+   
+   cat /etc/*release*
+   hostnamectl
 
    printDate() {
      date=$(date)

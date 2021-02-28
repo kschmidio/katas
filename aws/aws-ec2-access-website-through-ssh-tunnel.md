@@ -2,7 +2,7 @@
 
 ## Prerequisites
 * Have access an AWS account
-* [hello-world-node](../languages/hello-world-node.mdhello-world-node.md)
+* Completed Kata [Hello World node](../languages/hello-world-node.mdhello-world-node.md)
 * Have an ami with node installed
 
 ## Steps

@@ -2,6 +2,6 @@
 
 ## Prerequisites
 * Have access an AWS account
-* [spring boot application](../languages/hello-world-spring.md)
+* Completed Kata [Hello World spring](../languages/hello-world-spring.md)
   
 ## Steps
